@@ -5,6 +5,10 @@ Welcome to **[Coinseeker.co]**! This is the home of our source code, libraries, 
 ![image](https://github.com/user-attachments/assets/2e141ecc-4463-44df-8002-e1ae08db9911)
 
 
+Coinseeker.co is a cutting-edge AI-driven intelligence platform designed to revolutionize the Web3 private market by focusing on data ownership and decentralization. The project's mission is to empower users by allowing them to securely manage, access, and share their data within a decentralized ecosystem.
+
+
+
 ## 🛠️ Current Projects
 
 ### 1. [Coinseeker Frontend](https://github.com/Coinseeker-co/coinseeker-be)
@@ -21,8 +25,8 @@ Design link:
 
 ## 📚 Documents
 
-- [Checklist](https://docs.google.com/spreadsheets/d/1tVyhPE7qgJne257RWI9_D8qbUIVFGtIPw-WJV4TWihU/edit?gid=1212707903#gid=1212707903): Use it for now
+- [Checklist](https://docs.google.com/spreadsheets/d/1tVyhPE7qgJne257RWI9_D8qbUIVFGtIPw-WJV4TWihU/edit?gid=1212707903#gid=1212707903): Use this checklist for now
 - [Old testcase](https://docs.google.com/spreadsheets/d/1N8x_SEPyUQ9ovu10eKot1KySecodnnBndPlStX9X4v0/edit?gid=1444059630#gid=1444059630): the last updated on 16/05/2024
-- [Coinseeker Dealroom guide](https://cyberk-vn.sg.larksuite.com/docx/YEwId9jD3odAqjxxCbJlOv4fgEh?from=from_copylink): Use it when create a new deal (invest, claim)
-- [Use copilot + vitest to run unit test](https://cyberk-vn.sg.larksuite.com/docx/DMdlde5gxoH9jaxrIKClyQpvgqg?from=from_copylink)
-- [Telegram mini app PRD](https://docs.google.com/document/d/1B0Mq-mD2oop2pcYzEKpqWSo_lgYMaHYKxjZ6YVa2Wts/edit)
+- [Coinseeker Dealroom guide](https://cyberk-vn.sg.larksuite.com/docx/YEwId9jD3odAqjxxCbJlOv4fgEh?from=from_copylink): Use it when creating a new deal (invest, claim)
+- [Unit test guide](https://cyberk-vn.sg.larksuite.com/docx/DMdlde5gxoH9jaxrIKClyQpvgqg?from=from_copylink): Use copilot + vitest to run unit test
+- [Telegram mini app PRD](https://cyberk-vn.sg.larksuite.com/docx/XJyAd0LD3onHEox3LRAlljDjgHd)
