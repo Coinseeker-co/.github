@@ -22,6 +22,7 @@ Design link:
 - [Figma: Revamp](https://www.figma.com/design/NQiPu7bXH8Z4eTVlQ8tAl2/Revamp-Coinseeker?node-id=3-614&t=zxbcZ6qL6krGWJ68-0)
 - [Figma: Landing](https://www.figma.com/design/PLun79kfB3qW8hPkOpMlKT/Coinseeker-Alpha-%2B-New-Landing-page?node-id=0-1&t=4Xpco6F6GnQUcMey-0)
 - [Figma: Telegram mini app](https://www.figma.com/design/PQH8xvhkLdWdVz8ZrIOaOi/Miniapp?node-id=0-1&t=Hmpch8JamTBeO0zH-0)
+- [Figma: Oracler](https://www.figma.com/design/WIO6Kti4kIGnbpUWltIDSl/Coinseeker-Rebrand?node-id=1-51&node-type=frame&t=8cJbUPL09HiDvpK3-0)
 
 ## 📚 Documents
 
@@ -29,4 +30,7 @@ Design link:
 - [Old testcase](https://docs.google.com/spreadsheets/d/1N8x_SEPyUQ9ovu10eKot1KySecodnnBndPlStX9X4v0/edit?gid=1444059630#gid=1444059630): the last updated on 16/05/2024
 - [Coinseeker Dealroom guide](https://cyberk-vn.sg.larksuite.com/docx/YEwId9jD3odAqjxxCbJlOv4fgEh?from=from_copylink): Use it when creating a new deal (invest, claim)
 - [Unit test guide](https://cyberk-vn.sg.larksuite.com/docx/DMdlde5gxoH9jaxrIKClyQpvgqg?from=from_copylink): Use copilot + vitest to run unit test
-- [Telegram mini app PRD](https://cyberk-vn.sg.larksuite.com/docx/XJyAd0LD3onHEox3LRAlljDjgHd)
+- [PRD Folder](https://cyberk-vn.sg.larksuite.com/drive/folder/BafAfi9AjldGu7dY8AqldEP4gS1?from=from_copylink)
+
+## Management sheet
+- [Management dashboard](https://docs.google.com/spreadsheets/d/1H80mSb8lQkmBr1LPTeHgtD4212izcZx3SJZpbaj1BGs/edit?usp=sharing)
